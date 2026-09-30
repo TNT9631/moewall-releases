@@ -1,0 +1,12 @@
+{
+  "_comment": "示例结构 —— 真实文件由私有仓 CI 在发正式版时写入（文件名 update.json）",
+  "versionCode": 192,
+  "versionName": "2.3.119",
+  "tag": "v2.3.119",
+  "apk": "MoeWall-v2.3.119.apk",
+  "asset_id": 0,
+  "size": 2334565,
+  "sha256": "d8fa03a46abbd4a4de0424ad0000000000000000000000000000000000000000",
+  "published_at": "2026-09-30T12:39:11Z",
+  "notes": "本次更新内容（给用户看的一两句话）"
+}
