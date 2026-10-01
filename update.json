@@ -1,11 +1,11 @@
 {
-  "versionCode": 202,
-  "versionName": "2.3.120",
-  "tag": "v2.3.120",
-  "apk": "MoeWall-v2.3.120.apk",
-  "asset_id": 602157488,
-  "size": 1863702,
-  "sha256": "136bd380aab3cc8920f4ecdd8f44d07c719ecabfa25d18c5a1bf7044fc4f848f",
-  "published_at": "2026-10-01T01:23:19.641Z",
-  "notes": "**Full Changelog**: https://github.com/TNT9631/moewall/compare/v2.3.119...v2.3.120"
+  "versionCode": 203,
+  "versionName": "2.3.121",
+  "tag": "v2.3.121",
+  "apk": "MoeWall-v2.3.121.apk",
+  "asset_id": 602179254,
+  "size": 1863706,
+  "sha256": "e3a023439d5904b26966a66413929e0dca2a9d429e3e972e92265d240e534cd9",
+  "published_at": "2026-10-01T01:33:32.495Z",
+  "notes": "**Full Changelog**: https://github.com/TNT9631/moewall/compare/v2.3.120...v2.3.121"
 }
